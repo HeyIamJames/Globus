@@ -1,0 +1,14 @@
+import org.apache.coyote.ActionCode;
+import org.apache.catalina.Globals;
+import org.apache.catalina.LifecycleException;
+import org.apache.catalina.connector.Request;
+import org.apache.catalina.connector.Response;
+import org.apache.catalina.deploy.LoginConfig;
+
+public class SSLAuthenticator
+    extends AuthenticatorBase {
+        public String getInfo() 
+
+        return (info);
+
+    }
