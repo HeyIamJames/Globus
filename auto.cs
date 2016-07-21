@@ -14,21 +14,15 @@
             Console.WriteLine(outputItem.BaseObject.ToString() + "\n");
     }
 
-De{
-	NewEngineState=Available
-	PreviousEngineState=None
-　
-	SequenceNumber=13
-　
-	HostName=ConsoleHost
-	HostVersion=3.0
-	HostId=d3449f71-9838-4131-8672-a6e76ec7af5d
-	EngineVersion=3.0
-	RunspaceId=a0f5e0d0-b8e0-4c02-851a-47d1bd1dac32
-	PipelineId=
-	CommandName=
-	CommandType=
-	ScriptName=
-	CommandPath=
-	CommandLine=
+using System;
+using Micrsoft.VisualStudio.TestTools.UnitTesting;
+
+namespace AddItem
+{
+    [TC]
+    public class auto
+    public void auto1()
+    {
+        
+    }
 }
