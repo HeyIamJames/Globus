@@ -1,1 +1,7 @@
 make: *** No targets specified and no makefile found.  Stop.
+
+<TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2}
+    
+//4 > 4.5 
