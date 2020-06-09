@@ -1,4 +1,4 @@
-import scappy
+import scapy
 import logging
 
 logging.getLogger("scapy").setLevel(1)
